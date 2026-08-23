@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehdi Moradi</h1>
+<h1 align="center">Hi , I'm Mehdi Moradi</h1>
 
 <h3 align="center">
 MSc Artificial Intelligence Graduate | Data Science & Machine Learning
