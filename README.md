@@ -5,7 +5,7 @@ MSc Artificial Intelligence Graduate | Data Science & Machine Learning
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/MoraMeh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
   <a href="mailto:YOUR-EMAIL">
@@ -22,7 +22,7 @@ MSc Artificial Intelligence Graduate | Data Science & Machine Learning
 - 🧠 Experienced with sentiment analysis and concept drift
 - 📊 Working with Python, SQL, PySpark and Power BI
 - 📍 Based in London, UK
-- 💼 Open to graduate and junior Data/AI opportunities
+
 
 ---
 
