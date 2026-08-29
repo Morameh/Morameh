@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mehdi Moradi</h1>
 
 <h3 align="center">
-MSc Artificial Intelligence Graduate | Data Science & Machine Learning
+MSc Artificial Intelligence Graduate | Data Science & Machine Learning & SWE
 </h3>
 
 <p align="center">
